@@ -156,6 +156,6 @@ Contribuições são bem-vindas! Siga os passos abaixo:
 ### 📬 Contato
 
 Para dúvidas, sugestões ou suporte, entre em contato com o criador:
-    - Nome: Jeth Weber
-    - E-mail: jethweber@gmail.com
-    - WhatsApp: +244 954629524
+  - Nome: Jeth Weber
+  - E-mail: jethweber@gmail.com
+  - WhatsApp: +244 954629524
